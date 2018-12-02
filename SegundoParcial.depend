@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1543788377 source:c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1543788377 c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\employee.h
+
+1543788377 source:c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1543788377 c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\linkedlist.h
+
+1543788520 source:c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"Employee.h"
+
+1543788377 c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\controller.h
+
+1543788520 source:c:\users\sanro\onedrive\escritorio\segundo-parcial-lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"controller.h"
+	"Employee.h"
+

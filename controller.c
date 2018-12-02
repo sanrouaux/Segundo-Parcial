@@ -2,10 +2,8 @@
 #include <stdlib.h>
 #include "LinkedList.h"
 #include "controller.h"
-
 #include "Employee.h"
-#include "ingresoDatos.h"
-#include "ordenamiento.h"
+
 
 int controller_bienvenida()
 {

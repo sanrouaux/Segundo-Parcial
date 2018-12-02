@@ -4,9 +4,6 @@
 #include "controller.h"
 #include "Employee.h"
 
-
-int main()
-{
     /*
     1- Carga datos de empleados desde archivo CSV
     2- Ordena alfabeticamente la lista de empleados y los muestra (utiliza Sort de LL y la funcion de comparacion de Empleados)
@@ -14,6 +11,8 @@ int main()
     4- Guarda en un archivo los empleados con sueldos superiores a 40000 (utiliza funcion Filter de LL y filer de Empleados)
     */
 
+int main()
+{
     LinkedList* lista = ll_newLinkedList();
 
     controller_bienvenida();

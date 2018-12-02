@@ -39,10 +39,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="controller.h" />
-		<Unit filename="ingresoDatos.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="ingresoDatos.h" />
 		<Unit filename="linkedList.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -50,14 +46,6 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="ordenamiento.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="ordenamiento.h" />
-		<Unit filename="validaciones.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="validaciones.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />
