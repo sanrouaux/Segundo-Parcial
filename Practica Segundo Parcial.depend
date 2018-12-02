@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1543787851 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"controller.h"
+	"Employee.h"
+	"ingresoDatos.h"
+	"ordenamiento.h"
+
+1543785436 c:\users\sanro\onedrive\escritorio\practica segundo parcial\controller.h
+
+1543778902 c:\users\sanro\onedrive\escritorio\practica segundo parcial\linkedlist.h
+
+1543785706 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+	"controller.h"
+	"Employee.h"
+
+1543783949 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"linkedList.h"
+
+1543768897 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\ingresodatos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresoDatos.h"
+	"validaciones.h"
+
+1543768897 c:\users\sanro\onedrive\escritorio\practica segundo parcial\ingresodatos.h
+
+1543768897 c:\users\sanro\onedrive\escritorio\practica segundo parcial\validaciones.h
+
+1543768897 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\ordenamiento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ordenamiento.h"
+	"validaciones.h"
+
+1543768897 c:\users\sanro\onedrive\escritorio\practica segundo parcial\ordenamiento.h
+
+1543768897 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1543784007 c:\users\sanro\onedrive\escritorio\practica segundo parcial\employee.h
+
+1543787851 source:c:\users\sanro\onedrive\escritorio\practica segundo parcial\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
